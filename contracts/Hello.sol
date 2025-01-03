@@ -1,5 +1,4 @@
-// SPDX-Lincence-Identifier :MIT
-
+// SPDX-License-Identifier: MIT
 contract Hello {
     
     string public welcome = "Hellow Solidity";
